@@ -5,6 +5,4 @@
 #### Back-end: flask API  
 ## 2. Demo
 
-https://github.com/user-attachments/assets/3dd13829-c62e-455c-b71f-3770fd0c7971
-
-
+https://github.com/user-attachments/assets/ff929e8c-8bf8-4e23-bca0-f674b72208e0
